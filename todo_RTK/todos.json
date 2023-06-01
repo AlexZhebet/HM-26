@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "c9334f2e-8d19-4ee4-9289-b17f76b745ad",
+      "title": "Спатки",
+      "completed": false
+    },
+    {
+      "id": "e9ad585c-1a94-4bd6-9e36-c083aee16d72",
+      "title": "Вставатки",
+      "completed": false
+    },
+    {
+      "id": "66c05f1f-02d8-47e1-bbed-43eb755aa677",
+      "title": "Вставатки",
+      "completed": false
+    },
+    {
+      "id": "747ba7bd-8407-4590-b97c-3c0c44f44086",
+      "title": "Спатки",
+      "completed": false
+    }
+  ]
+}
